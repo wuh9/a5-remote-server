@@ -16,7 +16,7 @@ We use temp-prec-encrypted file. What we did is to plot temperature and precipit
 ![](output/temp1986.jpg)
 
 ![](output/temp2014.jpg)
-Those temperature patterns look reasonable. However, on **April 1st, 1986**, there were two isolated area in North that had **abnormally high temperature**. Temperature in 1986 was higher than that in 1960 and 2014。
+Those temperature patterns look reasonable. However, on **April 1st, 1986**, there were two isolated area in North that had **abnormally high temperature**. Temperature in 1986 was higher than that in 1960 and 2014.
 
 ### Precipitation
 ![](output/prec1960.jpg)
