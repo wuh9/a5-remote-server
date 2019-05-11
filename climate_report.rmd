@@ -1,0 +1,27 @@
+---
+title: "Climate Report"
+subtitle: "Temperature and Precipitation 1960-2014"
+author: Hongzhao Wu
+date: 2019/05/09
+output: html_document
+---
+### Data
+
+We use temp-prec-encrypted file. What we did is to plot temperature and precipitation maps for North America, for April month 1960 (first year in the data), 1986 (in the middle of the observation period), and 2014 (the last year). 
+
+### Temperature
+
+![](output/temp1960.jpg)
+
+![](output/temp1986.jpg)
+
+![](output/temp2014.jpg)
+Those temperature patterns look reasonable. However, on **April 1st, 1986**, there were two isolated area in North that had *abnormally high temperature**. Temperature in 1986 was higher than that in 1960 and 2014。
+
+### Precipitation
+![](output/prec1960.jpg)
+![](output/prec1986.jpg)
+![](output/prec2014.jpg)
+Those precipitation pattern look reasonable.**Precipitation** in **1986** in **middle and west coastal area** was **lower** than that in 1960 and 2004
+
+
